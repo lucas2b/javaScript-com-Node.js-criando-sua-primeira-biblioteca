@@ -1,0 +1,8 @@
+Palavras repetidas no parágrafo 1:  
+Palavras repetidas no parágrafo 2:  
+Palavras repetidas no parágrafo 3: uma 
+Palavras repetidas no parágrafo 4:  
+Palavras repetidas no parágrafo 5:  
+Palavras repetidas no parágrafo 6:  
+Palavras repetidas no parágrafo 7: dispositivos, web, seu, conectado 
+Palavras repetidas no parágrafo 8: cliente, uma, para 
